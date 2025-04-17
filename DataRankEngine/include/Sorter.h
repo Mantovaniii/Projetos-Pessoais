@@ -3,6 +3,8 @@
 #include <string>
 #include <functional>
 
+// Esse código define e implementa os algoritmos de ordenação
+
 class Sorter {
 public:
     using SortFunction = std::function<void(std::vector<int>&)>;
