@@ -1,0 +1,5 @@
+Algoritmo,Tempo(ms)
+QuickSort,1.751
+MergeSort,1.4891
+HeapSort,2.2424
+ShellSort,1.8183
